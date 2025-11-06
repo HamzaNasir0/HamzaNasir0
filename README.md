@@ -72,8 +72,8 @@ print(hammy.get_status())
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzaNasir0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaNasir0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=HamzaNasir0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=HamzaNasir0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
@@ -81,8 +81,9 @@ print(hammy.get_status())
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaNasir0&custom_title=Hammy's%20Contribution%20Graph&bg_color=0D1117&color=A277FF&line=A277FF&point=FFFFFF&area_color=A277FF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph?username=HamzaNasir0&bg_color=0D1117&color=A277FF&line=A277FF&point=FFFFFF&area_color=A277FF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
+
 
 ---
 
