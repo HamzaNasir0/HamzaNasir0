@@ -94,14 +94,6 @@ print(hammy.get_status())
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HamzaNasir0/HamzaNasir0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 💼 What I'm Currently Brewing
 
 <table align="center">
