@@ -72,11 +72,6 @@ print(hammy.get_status())
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HamzaNasir0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaNasir0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaNasir0&theme=radical&hide_border=true&background=0D1117&stroke=A277FF&ring=A277FF&fire=FF6D00&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
 </div>
 
